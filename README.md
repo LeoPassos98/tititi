@@ -15,7 +15,7 @@ Explorar recursos de Computação em Nuvem com Microsoft Azure: ativar conta, cr
 ## 📂 Estrutura
 
 ```
-Exercicio4/
+tititi/
 ├── prints/           # Screenshots dos produtos
 ├── database/         # Scripts SQL
 └── codigo/           # Aplicação Java
